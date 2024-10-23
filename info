@@ -47,7 +47,7 @@ class Program
     static async Task Main(string[] args)
     {
         // API URL
-        var apiUrl = "https://unit-dpa-01-plt0.nfcutest.net:5508/NFCUBranchTellerServices/rest/member-account-notes/v1/members/accounts/notes";
+        var apiUrl = "yyyyyyyyyyyyyysyyy";
 
         // JSON request body
         var requestData = new
